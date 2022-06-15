@@ -9,5 +9,6 @@ public class Git {
         System.out.println("master git!!");
         System.out.println("hot-fix!!");
         System.out.println("push!!");
+        System.out.println("pull!!");
     }
 }
